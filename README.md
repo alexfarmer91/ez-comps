@@ -24,6 +24,7 @@ This was one of our first projects so we had not yet learned certain front end f
 
 ## TODO 
 * Refactor with React or similar framework to improve performance
+* Convert backend to render JSON rather than ERB so that data can be used by a JavaScript framework
 * Allow users to input their own purchase price for the home before generating a report, since offers can differ from asking price
 
 2019 (c) Alex Farmer, Pavel Ilin, Austin Smith
