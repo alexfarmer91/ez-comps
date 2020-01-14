@@ -11,6 +11,7 @@ A Rails powered real estate app that allows users to quickly determine the value
 * Ruby on Rails
 * Zillow API via the Zester gem
 * Google Streetview API
+* PostgreSQL
 * ERB
 * CSS
 
